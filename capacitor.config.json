@@ -1,0 +1,6 @@
+{
+  "appId": "elotechitsolutions.com.ng",
+  "appName": "hello-world",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
